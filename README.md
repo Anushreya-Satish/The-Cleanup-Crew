@@ -39,6 +39,8 @@ The script relies on the third-party `watchdog` library for file system monitori
 ```bash
    pip install watchdog
 
+*Run it through command prompt.
+
 
 ---
 
