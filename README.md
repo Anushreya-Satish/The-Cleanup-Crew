@@ -51,6 +51,3 @@ This project is open-source and available under the [MIT License](LICENSE). Feel
   🚀 <b>Built by a junior polyglot</b><br>
   <sub>Learning & Embarking on new Endeavours</sub>
 </p>
-<p align="center">
-  <a href="https://github.com/Anushreya-Satish"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
