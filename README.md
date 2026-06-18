@@ -37,7 +37,7 @@ Files are automatically routed into the following subfolders based on their exte
 The script relies on the third-party `watchdog` library for file system monitoring. Install it via pip:
 
 ```bash
- pip install watchdog
+   pip install watchdog
 
 ---
 
